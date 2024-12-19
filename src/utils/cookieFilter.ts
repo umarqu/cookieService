@@ -46,7 +46,7 @@ export function findRepeatedCookieOccurences(
   let maxCount = 0;
 
   for (const [cookieId, count] of cookieCount.entries()) {
-    if (count > maxCount) {
+    if (count > maxCount && count !=1) {
       maxCount = count;
       mostRepeatedCookie = cookieId;
     }
