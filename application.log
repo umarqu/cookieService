@@ -1,0 +1,47 @@
+2024-12-18T14:07:24.325Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T14:07:24.327Z [info]: Filtering by date: 2018-12-08
+2024-12-18T14:07:24.328Z [info]: Here are the cookies for this date
+2024-12-18T14:07:24.328Z [info]: SAZuXPGUrfbcn5UA
+2024-12-18T14:07:24.328Z [info]: 4sMM2LxV07bPJzwf
+2024-12-18T14:07:24.328Z [info]: fbcn5UAVanZf6UtG
+undefined [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+undefined [info]: Filtering by date: 2018-12-08
+undefined [info]: Here are the cookies for this date
+undefined [info]: SAZuXPGUrfbcn5UA
+undefined [info]: 4sMM2LxV07bPJzwf
+undefined [info]: fbcn5UAVanZf6UtG
+2024-12-18T14:08:20.379Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T14:08:20.382Z [info]: Filtering by date: 2018-12-08
+2024-12-18T14:08:20.383Z [info]: Here are the cookies for this date
+2024-12-18T14:08:20.383Z [info]: SAZuXPGUrfbcn5UA
+2024-12-18T14:08:20.383Z [info]: 4sMM2LxV07bPJzwf
+2024-12-18T14:08:20.383Z [info]: fbcn5UAVanZf6UtG
+2024-12-18T15:00:29.002Z [error]: Error: The file "s" does not exist.
+2024-12-18T15:01:46.630Z [error]: Error: The file "s" does not exist.
+2024-12-18T15:08:17.227Z [error]: Error: The file "undefined" does not exist.
+2024-12-18T15:09:34.151Z [error]: Error: The file "s" does not exist.
+2024-12-18T15:59:25.328Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T15:59:25.333Z [info]: Filtering by date: 2018-12-09
+2024-12-18T15:59:25.334Z [info]: Here are the cookies for this date
+2024-12-18T15:59:25.334Z [info]: AtY0laUfhglK3lC7
+2024-12-18T15:59:25.334Z [info]: SAZuXPGUrfbcn5UA
+2024-12-18T15:59:25.334Z [info]: 5UAVanZf6UtGyKVS
+2024-12-18T15:59:25.334Z [info]: AtY0laUfhglK3lC7
+2024-12-18T16:45:45.791Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T16:45:45.797Z [info]: Filtering by date: 2018-12-09
+2024-12-18T16:45:45.798Z [info]: AtY0laUfhglK3lC7
+2024-12-18T16:54:57.568Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T16:54:57.572Z [info]: Filtering by date: 2018-12-09
+2024-12-18T16:54:57.573Z [info]: Most repeated cookie: AtY0laUfhglK3lC7
+2024-12-18T16:55:53.316Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T16:55:53.318Z [info]: Filtering by date: 2018-12-09
+2024-12-18T16:55:53.319Z [info]: AtY0laUfhglK3lC7
+2024-12-18T16:56:35.642Z [info]: Processing file: /Users/umarq/Workspace/js/cookieAssessment/cookie_log.csv
+2024-12-18T16:56:35.644Z [info]: Filtering by date: 2018-12-09
+2024-12-18T16:56:35.645Z [info]: AtY0laUfhglK3lC7
+2024-12-18T17:03:03.288Z [error]: Error: The file "sss" does not exist.
+2024-12-18T17:32:10.375Z [error]: Error: The file "f" does not exist.
+2024-12-18T22:17:47.915Z [error]: Error processing: 
+2024-12-18T22:18:22.413Z [info]: SAZuXPGUrfbcn5UA
+2024-12-18T22:18:40.473Z [info]: SAZuXPGUrfbcn5UA
+2024-12-19T07:00:57.584Z [info]: SAZuXPGUrfbcn5UA
