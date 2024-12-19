@@ -1,8 +1,4 @@
-# cookieService
-service to read cookies
-
-# Cookie Assessment CLI
-
+# CookieService
 This allows you to filter cookies by date and find the most active cookie for that specific date.
 
 ## Features
